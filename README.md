@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/inPhoenix/)
-[![StackOverFlow](https://img.shields.io/badge/StackOverflow-3746-orange.svg)](https://stackoverflow.com/questions/tagged/flutter?sort=votes)
+
 
 # influtter
 
@@ -8,8 +8,11 @@
 ## Getting Started
 
 Links:
-[documentation](https://flutter.io/).
-[awesome-flutter](https://github.com/Solido/awesome-flutter/).
+[documentation](https://flutter.io/)
+
+[StackOverFlow](https://stackoverflow.com/questions/tagged/flutter?sort=votes)
+
+[awesome-flutter](https://github.com/Solido/awesome-flutter/)
 
 ---
     Common commands: 
